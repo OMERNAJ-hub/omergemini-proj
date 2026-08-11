@@ -1,0 +1,6 @@
+{
+  "name": "OMNI ERP",
+  "description": "Local-First Accounting & ERP System (𝒪ℳ𝒩ℐ) featuring Multi-Currency, Double-Entry GL, Inventory Tracking, and Financial Reports",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
